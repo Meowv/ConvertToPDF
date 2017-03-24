@@ -1,0 +1,12 @@
+C:\Users\qix\Desktop\PDF\PDF\bin\Release\PDF.exe.config
+C:\Users\qix\Desktop\PDF\PDF\obj\Release\PDF.csproj.ResolveComReference.cache
+C:\Users\qix\Desktop\PDF\PDF\bin\Release\PDF.exe
+C:\Users\qix\Desktop\PDF\PDF\bin\Release\PDF.pdb
+C:\Users\qix\Desktop\PDF\PDF\bin\Release\Aspose.Words.dll
+C:\Users\qix\Desktop\PDF\PDF\bin\Release\itextsharp.dll
+C:\Users\qix\Desktop\PDF\PDF\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\qix\Desktop\PDF\PDF\bin\Release\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\qix\Desktop\PDF\PDF\bin\Release\Microsoft.Office.Interop.Word.dll
+C:\Users\qix\Desktop\PDF\PDF\bin\Release\stdole.dll
+C:\Users\qix\Desktop\PDF\PDF\obj\Release\PDF.exe
+C:\Users\qix\Desktop\PDF\PDF\obj\Release\PDF.pdb

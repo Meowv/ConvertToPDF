@@ -1,0 +1,10 @@
+C:\Users\qix\Desktop\PDF\PDF\bin\Debug\PDF.exe
+C:\Users\qix\Desktop\PDF\PDF\bin\Debug\PDF.pdb
+C:\Users\qix\Desktop\PDF\PDF\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\qix\Desktop\PDF\PDF\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\qix\Desktop\PDF\PDF\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\qix\Desktop\PDF\PDF\bin\Debug\stdole.dll
+C:\Users\qix\Desktop\PDF\PDF\obj\Debug\PDF.csproj.ResolveComReference.cache
+C:\Users\qix\Desktop\PDF\PDF\obj\Debug\PDF.exe
+C:\Users\qix\Desktop\PDF\PDF\obj\Debug\PDF.pdb
+C:\Users\qix\Desktop\PDF\PDF\obj\Debug\PDF.csprojResolveAssemblyReference.cache
